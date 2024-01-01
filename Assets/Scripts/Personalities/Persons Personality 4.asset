@@ -12,10 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c9e3931913013e409f2273dce893c6f, type: 3}
   m_Name: Persons Personality 4
   m_EditorClassIdentifier: 
-  personality: 
+  personality: Drunk
   random_text_messages: []
-  text_message_after_jamming: []
+  text_message_after_jamming_coorect: []
+  text_message_after_jamming_mistake: []
   thank_you_good: []
   leaving_concert_happy: []
   leaving_concert_unhappy: []
+  leaving_concert_unhappy_jammed: []
   unfriending_reason: []
+  getting_jammed: []
+  warning_player: []
+  thank_you: []
+  misc_text_messages: []
