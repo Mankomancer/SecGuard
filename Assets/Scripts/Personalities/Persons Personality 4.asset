@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c9e3931913013e409f2273dce893c6f, type: 3}
+  m_Name: Persons Personality 4
+  m_EditorClassIdentifier: 
+  personality: 
+  random_text_messages: []
+  text_message_after_jamming: []
+  thank_you_good: []
+  leaving_concert_happy: []
+  leaving_concert_unhappy: []
+  unfriending_reason: []
